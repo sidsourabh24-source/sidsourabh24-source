@@ -26,8 +26,8 @@ I am an engineering student focused on building scalable web applications and so
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidsourabh24-source&layout=compact&theme=radical)
 
 ### 📫 Let's Connect
-*   [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_URL)
-*   [Portfolio](https://YOUR_PORTFOLIO_URL)
+*   [LinkedIn](https://www.linkedin.com/in/sourabh-singh-rajput-2a4480359/)
+*   [Portfolio](https://portfolio-website-j1tek8ntl-sidsourabh24-3595s-projects.vercel.app/)
 <!--
 **sidsourabh24-source/sidsourabh24-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
